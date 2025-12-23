@@ -58,8 +58,20 @@ The data analysis allowed the identification of relevant patterns, such as:
 
 ● the average delivery time is 125 min (2h) with a standard deviation of 52 min (2h). The fastest delivery took 10 min and the slowest took 270 min (4.5h).  
 ● the “Semi-Urban” area is the only area with more delayed deliveries than on-time deliveries.  
+
+<p align="center">
+  <img src="img/g02.png" width="45%" />
+  <img src="img/g03.png" width="45%" />
+</p>  
+
 ● delays increase on cloudy and foggy days and decrease on sunny days.  
 ● motorcycles present a higher delivery delay rate compared to other vehicle types.  
+
+<p align="center">
+  <img src="img/g04.png" width="45%" />
+  <img src="img/g05.png" width="45%" />
+</p>
+
 ● heavy traffic (Jam) presents more delays.  
 ● the longest delays occurred in deliveries to the “Semi-Urban” area performed by motorcycles.  
 ● couriers over 30 years old tend to delay deliveries more than couriers under 30 years old.  
@@ -94,4 +106,5 @@ This project serves as a first step toward a data-driven culture, where operatio
 
 Portfolio Project Submission Form  
 https://forms.gle/dZ54sxez4rZ52QQ98
+
 
