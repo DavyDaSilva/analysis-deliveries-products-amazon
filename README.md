@@ -104,7 +104,3 @@ Based on the obtained results, the recommended next steps are:
 
 This project serves as a first step toward a data-driven culture, where operational decisions are guided by evidence rather than perception.
 
-Portfolio Project Submission Form  
-https://forms.gle/dZ54sxez4rZ52QQ98
-
-
