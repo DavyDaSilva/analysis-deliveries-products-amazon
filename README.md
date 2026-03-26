@@ -5,6 +5,8 @@ The company is facing an increase in the number of deliveries completed outside 
 
 The main business challenge is to understand why delays occur, identify where they are concentrated, and generate clear information that supports operational decisions to reduce the delay rate and improve delivery predictability.  
 
+---
+
 ## 2. Context
 The delivery operation involves different variables that directly impact delivery time, such as:  
 
@@ -19,6 +21,8 @@ The company already has operational data recorded in a historical database, but 
 
 The objective of this project is to transform raw delivery data into actionable insights, using descriptive analyses and simple visualizations that can be understood by areas such as Operations, Logistics, and Management.
 
+---
+
 ## 3. Analysis Assumptions
 To carry out the analysis, the following assumptions were adopted:  
 
@@ -27,6 +31,8 @@ To carry out the analysis, the following assumptions were adopted:
 ● records with missing values in columns such as traffic or weather were treated as “unknown information” or excluded when necessary.  
 ● the analyses were performed with a focus on pattern identification, not statistical causality.  
 ● the analyzed period represents a valid sample of the company’s recent operational behavior.  
+
+---
 
 ## 4. Solution Strategy
 The adopted strategy followed a structured data analysis approach:
@@ -52,6 +58,8 @@ The adopted strategy followed a structured data analysis approach:
 
 6. Data visualization  
    Creation of clear charts to facilitate interpretation of results and communication with the business.
+
+---
 
 ## 5. Analysis Insights
 The data analysis allowed the identification of relevant patterns, such as:  
@@ -80,6 +88,8 @@ The data analysis allowed the identification of relevant patterns, such as:
 
 These insights show that delays are not random, but rather the result of operational factors such as delivery area and vehicle type.
 
+---
+
 ## 6. Results
 As a result of the project, the following initiatives are proposed:  
 
@@ -92,6 +102,8 @@ As a result of the project, the following initiatives are proposed:
 - Link to the full report: https://lookerstudio.google.com/reporting/0337fdeb-651b-46f1-9256-54412af57bd1
 
 Additionally, the project demonstrates how data analysis can transform operational data into practical decisions, even when using simple techniques.
+
+---
 
 ## 7. Next Steps
 Based on the obtained results, the recommended next steps are:  
