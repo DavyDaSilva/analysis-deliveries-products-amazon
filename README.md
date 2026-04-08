@@ -1,9 +1,15 @@
 # Amazon Delivery Delay Analysis
+- Link to the full DashBord: https://lookerstudio.google.com/reporting/0337fdeb-651b-46f1-9256-54412af57bd1
 
 ## 1. Business Problem  
 The company is facing an increase in the number of deliveries completed outside the expected timeframe, which has generated customer dissatisfaction, an increase in complaints, and a risk of loss of trust in the brand.  
 
 The main business challenge is to understand why delays occur, identify where they are concentrated, and generate clear information that supports operational decisions to reduce the delay rate and improve delivery predictability.  
+
+📌0 (Here a image about delivery)
+<p align="center">
+  <img src="img/Delivery_image.png" width="80%" />
+</p>
 
 ---
 
@@ -20,6 +26,11 @@ The delivery operation involves different variables that directly impact deliver
 The company already has operational data recorded in a historical database, but does not use this information analytically to support strategic decisions.
 
 The objective of this project is to transform raw delivery data into actionable insights, using descriptive analyses and simple visualizations that can be understood by areas such as Operations, Logistics, and Management.
+
+📌1 (Here a image about delivery ontime and Delay)
+<p align="center">
+  <img src="img/entrega_porStatus.png" width="80%" />
+</p>
 
 ---
 
@@ -67,6 +78,7 @@ The data analysis allowed the identification of relevant patterns, such as:
 ● the average delivery time is 125 min (2h) with a standard deviation of 52 min (2h). The fastest delivery took 10 min and the slowest took 270 min (4.5h).  
 ● the “Semi-Urban” area is the only area with more delayed deliveries than on-time deliveries.  
 
+📌2 and 3 (Here images of Delay by Region and by Weather)
 <p align="center">
   <img src="img/g02.png" width="45%" />
   <img src="img/g03.png" width="45%" />
@@ -75,6 +87,7 @@ The data analysis allowed the identification of relevant patterns, such as:
 ● delays increase on cloudy and foggy days and decrease on sunny days.  
 ● motorcycles present a higher delivery delay rate compared to other vehicle types.  
 
+📌4 and 5 (Here images of Delay by Veicle and by Trafic)
 <p align="center">
   <img src="img/g04.png" width="45%" />
   <img src="img/g05.png" width="45%" />
@@ -90,7 +103,7 @@ These insights show that delays are not random, but rather the result of operati
 
 ---
 
-## 6. Results
+## 📌6. Results
 As a result of the project, the following initiatives are proposed:  
 
 ● deepen the understanding of why the “Semi-Urban” area has the highest delay volumes.  
