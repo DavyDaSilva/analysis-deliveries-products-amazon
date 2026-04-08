@@ -6,7 +6,7 @@ The company is facing an increase in the number of deliveries completed outside 
 
 The main business challenge is to understand why delays occur, identify where they are concentrated, and generate clear information that supports operational decisions to reduce the delay rate and improve delivery predictability.  
 
-📌0 (Here a image about delivery)
+📌0 (Here an image about delivery)
 <p align="center">
   <img src="img/Delivery_image.png" width="80%" />
 </p>
@@ -27,7 +27,7 @@ The company already has operational data recorded in a historical database, but 
 
 The objective of this project is to transform raw delivery data into actionable insights, using descriptive analyses and simple visualizations that can be understood by areas such as Operations, Logistics, and Management.
 
-📌1 (Here a image about delivery ontime and Delay)
+📌1 (Here an image about delivery ontime and Delay)
 <p align="center">
   <img src="img/entrega_porStatus.png" width="80%" />
 </p>
